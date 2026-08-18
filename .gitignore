@@ -8,3 +8,4 @@ mosquitto/log/
 node-red/data/node_modules/
 node-red/data/.config*
 node-red/data/.sessions.json
+venv/
