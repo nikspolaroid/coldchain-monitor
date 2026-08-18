@@ -9,3 +9,6 @@ node-red/data/node_modules/
 node-red/data/.config*
 node-red/data/.sessions.json
 venv/
+node-red/data/flows_cred.json
+influxdb/data/
+influxdb/config/
