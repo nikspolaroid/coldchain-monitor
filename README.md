@@ -7,9 +7,9 @@ events from genuine compressor failure.
 Built with Docker, MQTT, Node-RED, InfluxDB and Grafana.
 
 <!-- Add your dashboard screenshot here:
-     docs/dashboard.png
+     docs/dashboard.jpeg
 -->
-![Dashboard](docs/dashboard.png)
+![Dashboard](docs/dashboard.jpeg)
 
 ---
 
